@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "title": "TECNOLEED",
+    "subtitle": "Your Trusted Partner in Agricultural Exports"
+  },
+  "welcome": {
+    "title": "Welcome to Tecnoleed",
+    "description": "We specialize in exporting high-quality agricultural products from Egypt to the world"
+  },
+  "about": {
+    "title": "About Us",
+    "mainTitle": "About Us",
+    "whoWeAre": {
+      "title": "Who We Are",
+      "description": "Tecnoleed is a premier agricultural export company with years of experience in sourcing and distributing the finest agricultural products. We pride ourselves on our commitment to quality, sustainability, and customer satisfaction in every aspect of our business"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to bridge the gap between local farmers and global markets by providing premium, sustainably-sourced agricultural products. We maintain the highest standards of quality, ensuring that our customers receive only the best while supporting sustainable farming practices worldwide"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Discover our premium selection of agricultural products",
+    "features": {
+      "title": "Key Features"
+    },
+    "items": {
+      "dates": {
+        "title": "Medjool Dates",
+        "description": "Premium quality Medjool dates, known for their exceptional sweetness and size",
+        "features": {
+          "0": "Large and premium size",
+          "1": "Natural high sweetness",
+          "2": "Rich in nutrients"
+        }
+      },
+      "oliveOil": {
+        "title": "Olive Oil",
+        "description": "Pure and authentic olive oil from the finest Egyptian olives",
+        "features": {
+          "0": "First cold press",
+          "1": "Low acidity",
+          "2": "Rich natural flavor"
+        }
+      },
+      "strawberry": {
+        "title": "Frozen Strawberry",
+        "description": "Fresh frozen strawberries, preserving their natural taste and nutrients",
+        "features": {
+          "0": "Quick frozen for quality",
+          "1": "100% natural taste",
+          "2": "No preservatives"
+        }
+      },
+      "tomatoPaste": {
+        "title": "Tomato Paste",
+        "description": "Rich and concentrated tomato paste made from fresh tomatoes",
+        "features": {
+          "0": "High concentration",
+          "1": "Natural red color",
+          "2": "Rich flavor"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us",
+    "info": {
+      "address": {
+        "title": "Address",
+        "value": "Cairo, Egypt"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+201005262953"
+      },
+      "email": {
+        "title": "Email",
+        "value": "tecnoleed123@gmail.com"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "value": "Everyday: 10:00 AM - 6:00 PM"
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "contact": "Contact",
+    "language": "العربية"
+  }
+}

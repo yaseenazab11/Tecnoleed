@@ -1,0 +1,89 @@
+.about-section {
+  padding: 80px 0;
+  background-color: #fff;
+}
+
+.section-title {
+  text-align: center;
+  color: #2c3e50;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background-color: #e67e22;
+}
+
+.about-content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.who-we-are,
+.our-mission {
+  margin-bottom: 40px;
+  padding: 30px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.who-we-are:hover,
+.our-mission:hover {
+  transform: translateY(-5px);
+}
+
+.who-we-are h3,
+.our-mission h3 {
+  color: #2c3e50;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.who-we-are p,
+.our-mission p {
+  color: #666;
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+[dir="rtl"] .section-title::after {
+  left: auto;
+  right: 50%;
+  transform: translateX(50%);
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    padding: 60px 0;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+
+  .who-we-are,
+  .our-mission {
+    padding: 20px;
+  }
+
+  .who-we-are h3,
+  .our-mission h3 {
+    font-size: 1.5rem;
+  }
+
+  .who-we-are p,
+  .our-mission p {
+    font-size: 1rem;
+  }
+}
