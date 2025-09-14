@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tecnoleed/static/css/main.9b6594fc.css",
-    "main.js": "/Tecnoleed/static/js/main.b14e9834.js",
+    "main.css": "/Tecnoleed/static/css/main.e0a2841a.css",
+    "main.js": "/Tecnoleed/static/js/main.107c12c1.js",
     "static/media/tomato paste.jpg": "/Tecnoleed/static/media/tomato paste.c10054768a010e5c8422.jpg",
     "static/media/frozen strawberry.jpg": "/Tecnoleed/static/media/frozen strawberry.2248ea2d5a9ac0a8c053.jpg",
     "static/media/medjool.jpg": "/Tecnoleed/static/media/medjool.7c8fc6d15f8bde8aca30.jpg",
@@ -15,11 +15,11 @@
     "static/media/fa-v4compatibility.ttf": "/Tecnoleed/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/Tecnoleed/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Tecnoleed/index.html",
-    "main.9b6594fc.css.map": "/Tecnoleed/static/css/main.9b6594fc.css.map",
-    "main.b14e9834.js.map": "/Tecnoleed/static/js/main.b14e9834.js.map"
+    "main.e0a2841a.css.map": "/Tecnoleed/static/css/main.e0a2841a.css.map",
+    "main.107c12c1.js.map": "/Tecnoleed/static/js/main.107c12c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b6594fc.css",
-    "static/js/main.b14e9834.js"
+    "static/css/main.e0a2841a.css",
+    "static/js/main.107c12c1.js"
   ]
 }
